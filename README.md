@@ -44,12 +44,7 @@ We used **Seaborn** and **Matplotlib** for data visualization to uncover pattern
 
 ---
 
-## 🔧 Feature Engineering (Optional)
 
-- Created a new `FamilySize` feature: `SibSp + Parch + 1`
-- Ready for further preprocessing like label encoding and model training
-
----
 
 ## 🛠 Technologies Used
 
