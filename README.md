@@ -1,5 +1,4 @@
-# PRODIGY_DS_02
-![image](https://github.com/user-attachments/assets/d571ca71-c441-4cbd-8cce-582b04932758)
+
 
 # 🚢 Titanic Dataset - Data Cleaning & Exploratory Data Analysis (EDA)
 
